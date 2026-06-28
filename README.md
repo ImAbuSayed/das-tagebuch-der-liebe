@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/das-tagebuch-der-liebe/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Das Tagebuch der Liebe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/das-tagebuch-der-liebe/) |
+| **Get License** | [Get License For Das Tagebuch der Liebe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/das-tagebuch-der-liebe/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dein Blick trifft mich im Neonlicht, Baby, du bist on fire
+> Ich seh nur dich im ganzen Club, du weckst in mir Desire
+> Komm, steig mit ein, der Motor heult, die Stadt ist unsre Stage
+> Das Tagebuch der Liebe, Babe, wir schreiben 'ne neue Page
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
