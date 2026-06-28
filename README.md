@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/das-tagebuch-der-liebe/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Das Tagebuch der Liebe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/das-tagebuch-der-liebe/) |
+| **Get License** | [Official Music Licensing for Das Tagebuch der Liebe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/das-tagebuch-der-liebe/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `9d5450f6d44b5d8c1c3a3d377178f6fe657e6e22b47eb6f2dbe8c343cff32d7c` |
 | **Timestamp** | June 29, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
